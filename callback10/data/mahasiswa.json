@@ -1,0 +1,21 @@
+ [
+   {
+      "nama": "zidane",
+      "nim" : "216151024",
+      "jurusan": "Teknik Informatika",
+      "idDosenWali" : 1
+   },
+   {
+      "nama": "abbas",
+      "nim" : "216151001",
+      "jurusan": "Teknik Komputer Jaringan",
+      "idDosenWali" : 1
+   },
+   {
+      "nama": "mallaniung",
+      "nim" : "216151020",
+      "jurusan": "Teknik Informatika multimedia",
+      "idDosenWali" : 1
+   }
+
+]

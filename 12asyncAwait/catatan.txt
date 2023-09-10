@@ -1,0 +1,4 @@
+Asynchronous function ?
+sebuah function yang bekerja secara Asynchronous(melalui event loop), yang menghasilkan (implisit) promise sebagai return valuenya ,tapi cara penulisan kode nya menggunakan penulisan yang synchronous(standar)
+
+Sebuah asynch function dapat memiliki keyword await di dalamnya untuk memberhentikan sementara eksekusi fungsinya sambil menunggu promisenya selesai .

@@ -1,0 +1,4 @@
+kenapa kita harus memakai closure ?
+1. untuk membuat function factories 
+2. untuk membuat private method (seolah olah)
+

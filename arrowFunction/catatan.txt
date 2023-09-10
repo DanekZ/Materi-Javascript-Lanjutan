@@ -1,0 +1,4 @@
+pembuatan arrow function 
+1. jika parameter nya hanya satu tidak perlu pakai (), langsung nama parameter nya saja 
+2. jika membuat arrow function dengan hasil object maka buat kode nya seperti ini 
+() => ({}) . kurung kurawal harus dibungkus dengan kurung . agar javascript dapat mengetahui itu membuat objek bukan membuat blok kode

@@ -1,0 +1,39 @@
+apa itu javascript ?
+javascript adalah bahasa pemograman yang  single treaded , non-blocking , asynchronous dan concurrent ;
+
+*pengertian tread
+Urutan eksekusi kode yang dapat dilakukan secara bebas / independent satu sama lain 
+   jenis treade 
+   1.single treade => bahasa pemograman yang hanya memiliki satu tread untuk menjalan kan setiap task pada kode. jadi jenis tread ini menjalankan tugas 1 ke tugas berikutnya
+   2.multi treade => bahasa pemograman yang memiliki banyak tread untuk menjalankan task 1 ke tas berikutnya
+
+*pengertian blocking & non-blocking 
+1.blocking => jenis bahasa pemograman yang tidak akan menjalan kan task berikutnya sampai task sebelumnya benar benar selesai
+2.non-blocking => jenis bahasa pemograman yang dapat menjalankan task berikutnya walau task sebelumnya bellum selesai
+
+*pengertian synchronous dan asynchronous
+1. synchronous => jenis bahasa pemograman yang menjalankan task seperti biasanya 
+2. asynchronous => jenis bahasa pemograman yang menjalankan berbagai task secara bersamaan sampai task tersebut benar benar selesai.
+
+ada 2 jenis asynchronous
+asynchronous + Single-threaded = concurrentcy 
+asynchronous + multi-threaded = Parallelism
+
+
+*kesimpulan 
+-Single vs Multi threaded
+lingkungan eksekusi 'task'
+
+-blocking vs non-blocking
+Teknik 'ngoding' (IO related)
+
+-synchronous vs asynchronous
+Teknik 'ngoding' (HTTP Request Related)
+
+-concurrent vs Parallelism
+lingkungan eksekusi 'task'
+
+kenapa harus belajar ini ? 
+agar kita dapat membuat program yang nyaman digunakan oleh user
+
+

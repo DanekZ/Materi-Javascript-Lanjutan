@@ -1,0 +1,13 @@
+apa itu promise?
+promise adalah sebuah object yang mempresentasikan keberhasilan/kegagalan sebuah event yang asynchronous di masa yang akan datang.
+//janji(terpenuhi/ingkar)
+//states(fullfield / rejected / pending) -> ini yang di javascript 
+untuk menjalan kan states diatas, ada 3 fungsi callback yang harus diingat yaitu 
+//callback()
+1. resolve() ketika states nya terpenuhi
+2. rejecte() ketika statesnya tidak terpenuhi
+3. finally() ketika waktu tunggunya selesai baik itu terpenuhi atau tidak terpenuhi 
+
+ada yang namanya aksi yang akan dilakukan ketika janjinya terpenuhi atau tidak terpenuhi
+jika terpenuhi kita sebut dengan then kalau tidak terpenuhi kita sebut dengan catch
+action(then / catch)
